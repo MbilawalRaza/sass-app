@@ -1,0 +1,5 @@
+{
+  "name": "ThumbGenie AI",
+  "description": "A high-performance SaaS platform for generating viral YouTube thumbnails using Gemini AI. Features user authentication, quota management, and multiple style presets.",
+  "requestFramePermissions": []
+}
